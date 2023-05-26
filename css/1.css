@@ -1,0 +1,30 @@
+body {
+    background-color: #041858;
+    color: white;
+  }
+  
+  .container21 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #041858;
+  }
+  
+  .person21 {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .person21 img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  @media (max-width: 800px) {
+    .container21 {
+      justify-content: center;
+    }
+  }
