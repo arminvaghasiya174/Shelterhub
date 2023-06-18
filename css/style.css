@@ -46,7 +46,7 @@ body {
   font-weight: bold;
 }
 
-.heading_container h2::before {
+/* .heading_container h2::before {
   content: "";
   position: absolute;
   width: 20px;
@@ -57,7 +57,7 @@ body {
   border-radius: 100%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-}
+} */
 
 /*header section*/
 .hero_area {
