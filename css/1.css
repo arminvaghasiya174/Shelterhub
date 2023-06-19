@@ -28,3 +28,9 @@ body {
       justify-content: center;
     }
   }
+  .social-icons21 img {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+    border-radius: 50%;
+  }
