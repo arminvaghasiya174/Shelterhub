@@ -39,6 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    color: #ffffff;
   }
   .rounded-button {
     display: inline-block;
@@ -49,4 +50,5 @@ body {
     border: none;
     font-size: 16px;
     cursor: pointer;
+    margin-left: 50%;
   }
