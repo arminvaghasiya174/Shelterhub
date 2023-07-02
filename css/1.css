@@ -50,5 +50,9 @@ body {
     border: none;
     font-size: 16px;
     cursor: pointer;
-    margin-left: 50%;
+    /* margin-left: 50%; */
+  }
+  .container22 {
+    display: flex;
+    justify-content: center;
   }
